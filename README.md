@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">Student At Escola Digital</h3>
 
+<img src="https://readme-typing-svg.herokuapp.com/?
+font-Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines-RodrigoDias!;" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoadiass&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoadiass" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoadiass" alt="rodrigoadiass" /></a> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoadiass" alt="rodrigoadiass" /> </a> </p>
 
 - 🔭 I’m currently working on **PreProjeto**
 
